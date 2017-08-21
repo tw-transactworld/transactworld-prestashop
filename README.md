@@ -9,5 +9,3 @@
 
 5.) Now, click on the "install" button to install the module.
 
-
-See the installation guide on this link https://docs.transactworld.com/integration/third-party-plugins.php
